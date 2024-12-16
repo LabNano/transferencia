@@ -1,0 +1,1 @@
+python C:\Users\USUARIO\Documents\Prog_Sistema_de_Transferencia_PID_relay_thiago\gui.py
